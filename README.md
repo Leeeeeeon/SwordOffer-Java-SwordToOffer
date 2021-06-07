@@ -1,4 +1,20 @@
 # SwordOffer
-剑指offer 67题 牛客网可以刷
-不定时上传
-个人学习用
+
+A Java project about exercise codes of the book 《Sword To Offer》 on nowcoder.com. 
+
+本代码库包含牛客网《剑指offer》67个题目，牛客网可以刷。基本手敲存在参考，部分代码有详细注释。 
+ 
+不定时上传，个人学习用
+
+[1.二维数组中的查找](./剑指Offer/src/TwoDimensionalArraySearch.java)  
+[2.替换空格](./剑指Offer/src/ReplaceSpaces.java)  
+[3.从尾到头打印链表](./剑指Offer/src/ReverseLinkedList.java)  
+[4.重建二叉树](./剑指Offer/src/ReconstructBinaryTree.java)  
+[5.用两个栈实现队列](./剑指Offer/src/TwoStacksAsQueue.java)  
+[6.旋转数组的最小数字](./剑指Offer/src/MinNumber.java)  
+[7.斐波那契数列](./剑指Offer/src/Fibonacci.java)  
+[8.跳台阶](./剑指Offer/src/JumpFloors.java)  
+[9.变态跳台阶](./剑指Offer/src/JumpFloorsII.java)  
+[10.矩形覆盖](./剑指Offer/src/RectCover.java)  
+[11.二进制中1的个数](./剑指Offer/src/IntToBinaryCount.java)  
+[12.数值的整数次方](./剑指Offer/src/Exponent.java)  
