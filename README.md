@@ -18,3 +18,6 @@ A Java project about exercise codes of the book 《Sword To Offer》 on nowcoder
 [10.矩形覆盖](./剑指Offer/src/t10RectCover.java)  
 [11.二进制中1的个数](./剑指Offer/src/t11IntToBinaryCount.java)  
 [12.数值的整数次方](./剑指Offer/src/t12Exponent.java)  
+[13.调整数组顺序使奇数位于偶数前面](./剑指Offer/src/t13ReorderArray.java)  
+[14.链表中倒数第k个节点](./剑指Offer/src/t14FindKthToTail.java)  
+[15.反转链表](./剑指Offer/src/t15ReverseList.java)  
