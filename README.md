@@ -1,4 +1,4 @@
-# SwordOffer
+# 剑指offer
 
 A Java project about exercise codes of the book 《Sword To Offer》 on nowcoder.com. 
 
