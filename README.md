@@ -6,7 +6,7 @@ A Java project about exercise codes of the book 《Sword To Offer》 on nowcoder
  
 不定时上传，个人学习用
 
-[1.二维数组中的查找](./剑指Offer/src/t1TwoDimensionalArraySearch.java.java)  
+[1.二维数组中的查找](./剑指Offer/src/t1TwoDimensionalArraySearch.java)  
 [2.替换空格](./剑指Offer/src/ReplaceSpaces.java)  
 [3.从尾到头打印链表](./剑指Offer/src/ReverseLinkedList.java)  
 [4.重建二叉树](./剑指Offer/src/ReconstructBinaryTree.java)  
