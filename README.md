@@ -8,7 +8,7 @@ A Java project about exercise codes of the book 《Sword To Offer》 on nowcoder
 
 [1.二维数组中的查找](./剑指Offer/src/t1TwoDimensionalArraySearch.java)  
 [2.替换空格](./剑指Offer/src/t2ReplaceSpaces.java)  
-[3.从尾到头打印链表](./剑指Offer/src/t3ReverseLinkedList.java)  
+[3.从尾到头打印链表](./剑指Offer/src/t3PrintListFromTailToHead.java)  
 [4.重建二叉树](./剑指Offer/src/t4ReconstructBinaryTree.java)  
 [5.用两个栈实现队列](./剑指Offer/src/t5TwoStacksAsQueue.java)  
 [6.旋转数组的最小数字](./剑指Offer/src/t6MinNumber.java)  
