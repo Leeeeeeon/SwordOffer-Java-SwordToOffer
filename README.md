@@ -21,3 +21,8 @@ A Java project about exercise codes of the book 《Sword To Offer》 on nowcoder
 [13.调整数组顺序使奇数位于偶数前面](./剑指Offer/src/t13ReorderArray.java)  
 [14.链表中倒数第k个节点](./剑指Offer/src/t14FindKthToTail.java)  
 [15.反转链表](./剑指Offer/src/t15ReverseList.java)  
+[16.合并两个排序的链表](./剑指Offer/src/t16MergeTwoLinkedLists.java)  
+[17.树的子结构](./剑指Offer/src/t17HasSubtree.java)  
+[18.二叉树的镜像](./剑指Offer/src/t18MirrorBinaryTree.java)  
+[19.顺时针打印矩阵](./剑指Offer/src/t19ClockwisePrint.java)  
+[20.包含min函数的栈](./剑指Offer/src/t20MinStack.java)  
